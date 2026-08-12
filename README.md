@@ -2,88 +2,106 @@
 
 > **Business & Technology Systems | Business Analysis | Operations | AI & Automation**
 
-This repository is the public portfolio layer for my professional work.
+This repository is the public presentation layer for my professional work.
 
-It is designed to answer a practical question:
+It is designed around one question:
 
 > **What problems can Praful help an organisation understand, structure, improve, and execute?**
 
-The answer is supported through selected case studies and evidence rather than a long list of projects.
+The answer is supported by **case studies, working artifacts, and one open-source engineering project** rather than a long project catalogue.
 
 ## Professional positioning
 
-I work at the intersection of **business operations and technology**.
+**Primary direction:** Technical / Business Systems Analyst
 
-My focus is on understanding business problems, analysing processes and systems, translating needs into requirements, evaluating practical technology options, and improving workflows through appropriate automation.
+**Adjacent roles:** Business Analyst — Systems / Operations · Product Analyst · Solutions Consultant / Associate Solutions Architect · Operations Strategy Analyst
 
-### Primary direction
+I work at the intersection of **business operations and technology**: analysing problems and processes, translating needs into requirements, evaluating systems and technology, and improving execution through practical solutions and automation.
 
-**Technical / Business Systems Analyst**
+My long-term identity remains entrepreneurial and ownership-oriented. The market-facing role translates those strengths into value an organisation can hire for.
 
-### Adjacent roles
+## Proof of work
 
-- Business Analyst — Systems / Operations
-- Product Analyst
-- Solutions Consultant / Associate Solutions Architect
-- Operations Strategy Analyst
+### Business & Technology Analysis
 
-These are market-facing role labels. The underlying identity remains entrepreneurial and systems-oriented.
+**Signal:** analysis, requirements, systems thinking, architecture reasoning and decision support.
 
-## What I bring
+The analysis repository now contains substantive evidence from a historical modular systems project, including capability boundaries across domain, identity, authorization, data, AI, automation, APIs, governance and quality.
 
-**Business thinking** — understand the objective, constraints, economics, stakeholders, and operational reality.
+→ [Read the analysis](https://github.com/Praful-Jadhav/Research-Business_analysis)
 
-**Systems thinking** — map relationships between people, processes, data, applications, integrations, and controls.
+### Openmind
 
-**Technical fluency** — communicate with engineers and understand APIs, databases, architecture, automation, AI systems, and deployment concepts without presenting myself as a code-first engineer.
+**Signal:** actual engineering capability.
 
-**Execution structure** — convert ambiguity into requirements, decisions, priorities, documentation, and an actionable implementation path.
+Openmind is the **single open-source engineering project**. It is where deeper implementation work is consolidated: architecture, source code, APIs, data, security, AI, automation, testing and deployment.
 
-## Selected evidence
+→ [Inspect Openmind](https://github.com/Praful-Jadhav/Project-Openmind)
 
-The portfolio is intentionally small.
+### This portfolio
 
-Each public artifact should demonstrate at least one of these capabilities:
+**Signal:** communication and presentation.
 
-- Business and systems analysis
-- Process improvement
-- Requirements and solution design
-- Technology-enabled operations
-- Workflow automation
-- Decision analysis
-- Systems architecture understanding
-- Genuine open-source engineering
+The portfolio itself is a small, responsive web experience designed around human scanning: clear hierarchy, short explanations, project context, proof, and direct navigation to the underlying work.
 
-Historical projects are used as an evidence base. Only the strongest, relevant material is promoted into public case studies or engineering work.
+## Visitor path
 
-## How to read the portfolio
+```text
+Understand the role
+        ↓
+See selected proof
+        ↓
+Read the analysis
+        ↓
+Inspect Openmind
+        ↓
+Review the reasoning and implementation
+```
 
-Every case study follows a simple path:
+The presentation layer should reduce cognitive load, not hide the evidence behind visual decoration.
 
-**Problem → Context → Analysis → Options → Decision → Evidence → Outcome / Next Step**
+## Audience-specific value
 
-This keeps the work understandable to both non-technical decision makers and technical reviewers.
+**Recruiter / hiring manager** — quickly understand role fit and see concrete evidence.
+
+**Business / operations leader** — understand the problem, implications, decisions and practical value.
+
+**Product professional** — follow requirements, workflows, trade-offs and prioritisation.
+
+**Engineer / architect** — move directly to Openmind and inspect the technical evidence.
+
+**Senior authority** — evaluate decision quality, scope control, evidence discipline and execution maturity.
 
 ## Evidence discipline
 
-I distinguish clearly between what was **observed, analysed, proposed, implemented, and validated**.
+Every artifact distinguishes between:
 
-I do not claim production scale, users, revenue, business impact, or technical maturity without evidence.
+- **Observed** — supported by evidence
+- **Assumed** — provisional
+- **Proposed** — recommendation or design
+- **Implemented** — working code exists
+- **Tested** — defined tests executed
+- **Validated** — evidence supports the result
 
-## Current focus
+No invented users, revenue, adoption, production scale, security guarantees or business impact.
 
-I am rebuilding this portfolio around a small number of high-signal artifacts rather than maintaining a large project catalogue.
+## Design principles
 
-The objective is not to look busy. It is to make the underlying capability **easy to understand, easy to verify, and useful to the person evaluating the work**.
+- Content before decoration
+- Strong hierarchy before visual effects
+- Short sections and meaningful whitespace
+- Real project context before technology lists
+- Accessible navigation
+- Responsive layout
+- Natural professional keywords without keyword stuffing
+- Direct paths from claims to evidence
 
-## For recruiters and hiring teams
+## Current status
 
-If you are evaluating me for a role involving **business analysis, systems analysis, operations, technology enablement, process improvement, or automation**, the case studies are the best place to start.
+**Active — portfolio foundation and proof-of-work presentation.**
 
-## For technical reviewers
-
-The portfolio does not try to replace engineering evidence with visual presentation. The open-source work provides the deeper implementation signal, while the analysis work explains the business and systems reasoning around technology.
+The historical project corpus remains a private evidence reservoir. Only work that strengthens the public narrative is promoted.
 
 ---
 
-**Positioning principle:** same underlying reality, translated clearly for the market that needs to understand it.
+**Principle:** make the value obvious, make the evidence reachable, and never let presentation outrun reality.
